@@ -1,14 +1,14 @@
 <p align="center"><img src="https://raw.githubusercontent.com/TBroz15/Create-PROPERLY/refs/heads/main/.github/assets/Create_PROPERLY_Icon.webp" alt="Logo" width="200"></p>
 <h1 align="center">Create: PROPERLY <br>
     <a href="https://modrinth.com/project/create-properly"><img src="https://img.shields.io/modrinth/dt/create-properly?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5CA424&logoColor=1C1C1C" alt="Modrinth"></a>
-    <br><br>
+    <br>
 </h1>
 
 A vanilla+ modpack, centered on Create 6, with everything necessary such as QOL and Optimization Mods. Nothing less, nothing more, just proper!
 
-### If you want the PROPER tutorial on how to install this modpack PROPERLY, click this link!
+### If you want a tutorial on how to install this modpack PROPERLY, click this link!
 
-# Why?
+## Why?
 
 ## Motivation
 
