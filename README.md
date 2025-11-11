@@ -1,7 +1,7 @@
 <p align="center"><img src="
-    https://raw.githubusercontent.com/TBroz15/Create-PROPERLY/main/.github/assets/Create_PROPERLY_Icon.png" alt="Logo" width="200"></p>
+    https://raw.githubusercontent.com/TBroz15/Create-PROPERLY/refs/heads/main/.github/assets/Create_PROPERLY_Icon.webp" alt="Logo" width="200"></p>
 <h1 align="center">Create: PROPERLY <br>
-    <a href="https://r.createmod.net/mr"><img src="https://img.shields.io/modrinth/dt/create-properly?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5CA424&logoColor=1C1C1C" alt="Modrinth"></a>
+    <a href="https://modrinth.com/project/create-properly"><img src="https://img.shields.io/modrinth/dt/create-properly?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5CA424&logoColor=1C1C1C" alt="Modrinth"></a>
     <br><br>
 </h1>
 
