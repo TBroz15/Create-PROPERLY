@@ -6,8 +6,18 @@
 
 A vanilla+ modpack, centered on Create 6, with everything necessary such as QOL and Optimization Mods. Nothing less, nothing more, just proper!
 
+#### If you want the PROPER tutorial on how to install this modpack PROPERLY, click this link!
+
+# Why?
+
+## Motivation
+
+Viewers from [my YouTube channel](https://www.youtube.com/@TBroz15) asked with THOUSANDS of comments asked for the mod's name, how to install it, how to get any Create-themed modpack, and whatever nonsense. So I made a dedicated modpack to simplify everything and make sure it is stable and PROPER as much as possible, while adding more aspects.
+
+## Credits
+
 Original [Create mod](https://github.com/Creators-of-Create/Create) by the Create team.
 
-The icon for this modpack is a full simplified remake of the Create's icon. The icon of "Create: PROPERLY" was made by TuxeBro and is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
+The icon for "Create: PROPERLY" is a full simplified remake of the Create's icon. The icon of "Create: PROPERLY" was made by TuxeBro and is licensed under CC BY-SA 4.0. To view a copy of this license, visit https://creativecommons.org/licenses/by-sa/4.0/
 
 ###### mod name?
