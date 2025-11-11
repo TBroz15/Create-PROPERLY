@@ -6,13 +6,13 @@
 
 A vanilla+ modpack, centered on Create 6, with everything necessary such as QOL and Optimization Mods. Nothing less, nothing more, just proper!
 
-#### If you want the PROPER tutorial on how to install this modpack PROPERLY, click this link!
+### If you want the PROPER tutorial on how to install this modpack PROPERLY, click this link!
 
 # Why?
 
 ## Motivation
 
-Viewers from [my YouTube channel](https://www.youtube.com/@TBroz15) asked with THOUSANDS of comments asked for the mod's name, how to install it, how to get any Create-themed modpack, and whatever nonsense. So I made a dedicated modpack to simplify everything and make sure it is stable and PROPER as much as possible, while adding more aspects.
+Viewers from [my YouTube channel](https://www.youtube.com/@TBroz15) asked with THOUSANDS of comments asked for the mod's name, how to install it, how to get any Create-themed modpack, and whatever nonsense. So I made a dedicated modpack to simplify everything and make sure it is stable, simple, and PROPER as much as possible, while adding more aspects.
 
 ## Credits
 
