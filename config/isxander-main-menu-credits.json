@@ -1,0 +1,43 @@
+{
+  "main_menu": {
+    "top_right": [
+      {
+        "text": "hi"
+      }
+    ],
+    "bottom_right": [
+      {
+        "text": "Modpack made by TuxeBro!",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://www.youtube.com/@TBroz15"
+        }
+      },
+      {
+        "text": "Create: PROPERLY 0.1.0",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/project/create-properly"
+        }
+      }
+    ]
+  },
+  "pause_menu": {
+    "bottom_right": [
+      {
+        "text": "Modpack made by TuxeBro!",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://www.youtube.com/@TBroz15"
+        }
+      },
+      {
+        "text": "Create: PROPERLY 0.1.0",
+        "clickEvent": {
+          "action": "open_url",
+          "value": "https://modrinth.com/project/create-properly"
+        }
+      }
+    ]
+  }
+}

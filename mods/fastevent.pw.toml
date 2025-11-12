@@ -1,0 +1,17 @@
+filename = 'FastEvent-1.20.1-1.1.1.jar'
+name = 'FastEvent'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.1.1'
+
+[download]
+hash = 'f399514bf50e3b395be439d7b154d99cb0f3c987727d35b05b7afee58de2f8416a3e3cd4169932fb220becadc071cef5f956ed1a5eeb4fbeb6c48688c0f8c736'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/LauZQ6kM/versions/GjwRoxLR/FastEvent-1.20.1-1.1.1.jar'
+
+[update.modrinth]
+mod-id = 'LauZQ6kM'
+version = 'GjwRoxLR'

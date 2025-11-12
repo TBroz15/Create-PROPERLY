@@ -1,0 +1,17 @@
+filename = 'jei-1.20.1-forge-15.20.0.118.jar'
+name = 'Just Enough Items (JEI)'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '15.20.0.118'
+
+[download]
+hash = '33fdf5e2e72f7d099dc0e0af4bf6a184bf14d1161f4c1a8d8c49128f5a0c7fd79e79acecf3d4d25518c858b7f45200d8a457f28a0a0afec80e90ceebcc149419'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/u6dRKJwZ/versions/MoE0CHNA/jei-1.20.1-forge-15.20.0.118.jar'
+
+[update.modrinth]
+mod-id = 'u6dRKJwZ'
+version = 'MoE0CHNA'

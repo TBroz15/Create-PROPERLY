@@ -1,0 +1,17 @@
+filename = 'Better_Modlist-0.1.13-all.jar'
+name = 'Better ModList'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.1.13'
+
+[download]
+hash = 'dcc11b384bb0f7095ac35258975a7836e6b3e0cd2b171f34b7bab8b00064a532f4c6c2c691123f35785bd2cb5575f498b8d9d1d3ba950f5c4d46994c97252b8d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/sbpqhzIG/versions/Y0p90MaY/Better_Modlist-0.1.13-all.jar'
+
+[update.modrinth]
+mod-id = 'sbpqhzIG'
+version = 'Y0p90MaY'

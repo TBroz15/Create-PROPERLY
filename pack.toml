@@ -1,0 +1,13 @@
+name = "Create PROPERLY"
+author = "TuxeBro"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "41136a985f22e1631d94531c732ec0abad17b2a88230e4835eede05cd96befd7"
+
+[versions]
+forge = "47.4.10"
+minecraft = "1.20.1"

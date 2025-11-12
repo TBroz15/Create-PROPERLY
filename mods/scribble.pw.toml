@@ -1,0 +1,17 @@
+filename = 'Scribble-1.5.1+mc1.20.1-forge.jar'
+name = 'Scribble'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge', 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20', '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.5.1+mc1.20.1-forge'
+
+[download]
+hash = '8253a8185f1321474c51def8a8b43cd6a2c2adfa183a4f4ea83bb9ce0e9d10fac80686be945996644627f6bfa1a770090aee74bc8474920b038129f0e385f6a0'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/yXAvIk0x/versions/aiNs4ig8/Scribble-1.5.1%2Bmc1.20.1-forge.jar'
+
+[update.modrinth]
+mod-id = 'yXAvIk0x'
+version = 'aiNs4ig8'

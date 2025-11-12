@@ -1,0 +1,17 @@
+filename = 'DeleteWorldsToTrash-v8.0.0-1.20.1-Forge.jar'
+name = 'Delete Worlds To Trash'
+side = 'client'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v8.0.0-1.20.1-Forge'
+
+[download]
+hash = 'd4f5302469acbd6ab10ab603da4bbd43852157feaf4f8147125f043fcf4b9314c01b3df18cd172a5dc512702fed2fc3da92db6b21f3a9602c00a588bec0e9b5d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/7diJQfvM/versions/Ee8hSsMe/DeleteWorldsToTrash-v8.0.0-1.20.1-Forge.jar'
+
+[update.modrinth]
+mod-id = '7diJQfvM'
+version = 'Ee8hSsMe'
