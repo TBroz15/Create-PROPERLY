@@ -1,0 +1,16 @@
+filename = 'ntrials-1.7.0.jar'
+name = 'New Trials'
+side = 'both'
+x-prismlauncher-loaders = [ 'forge' ]
+x-prismlauncher-mc-versions = [ '1.20.1' ]
+x-prismlauncher-release-type = 'release'
+
+[download]
+hash = '749577204f420ee0ee93dc341016887a361b7afbeb2e83434bcbb578f9cc8287b64273df0b5cde56e7e05864c18afa6b41eb3ad59c4a15495256e9f0d464622d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/CPolhvYL/versions/fSb7LTjZ/ntrials-1.7.0.jar'
+
+[update.modrinth]
+mod-id = 'CPolhvYL'
+version = 'fSb7LTjZ'
