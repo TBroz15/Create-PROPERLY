@@ -1,6 +1,7 @@
 <p align="center"><img src="https://raw.githubusercontent.com/TBroz15/Create-PROPERLY/refs/heads/main/.github/assets/Create_PROPERLY_Icon.webp" alt="Logo" width="200"></p>
 <h1 align="center">Create: PROPERLY <br>
     <a href="https://modrinth.com/project/create-properly"><img src="https://img.shields.io/modrinth/dt/create-properly?logo=modrinth&label=&suffix=%20&style=flat&color=242629&labelColor=5CA424&logoColor=1C1C1C" alt="Modrinth"></a>
+    <a href="https://github.com/TBroz15/Create-PROPERLY"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/TBroz15/Create-PROPERLY?style=flat&logo=GitHub"></a>
     <br>
 </h1>
 
@@ -29,6 +30,8 @@ Viewers from [my YouTube channel](https://www.youtube.com/@TBroz15) asked me wit
 
 [Click me](https://youtu.be/NehVZeQUyuk), if you would like to see a dumb compilation of people asking for "mod name"
 
+###### mod name?
+
 ## "I want to make a modpack like this one!"
 
 Good news! This modpack is [open-sourced](https://github.com/TBroz15/Create-PROPERLY) and built with [Packwiz](https://packwiz.infra.link/), meaning you can tweak, remix, create, and publish your own flavor.
@@ -36,8 +39,6 @@ Good news! This modpack is [open-sourced](https://github.com/TBroz15/Create-PROP
 ## "But wait a minute, is it actually PROPER?"
 
 If you say 100% PROPER, of course not, as there is no such thing as a PROPER modpack. It is up to the players like you to pick what's best. But for me, this a good modpack for Create Mod beginners and people with low end devices.
-
-###### mod name?
 
 ## Credits
 
