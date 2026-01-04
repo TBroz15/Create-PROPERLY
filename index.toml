@@ -137,10 +137,6 @@ file = "config/embeddium-options.json"
 hash = "b4b0aaec74cd2c37a2d0d384a4195768d8d7cbc9f86c7d993694e394fa35664d"
 
 [[files]]
-file = "config/emi.css"
-hash = "9fa24b9307a960428865fddf89bf18ad0659141055e918cd113a3e510a2d2b7f"
-
-[[files]]
 file = "config/enhanced_bes.properties"
 hash = "ef30c03380738a24fcdbad55279a70819a563b495b4421975c4a5c424c5c0695"
 
@@ -368,12 +364,12 @@ metafile = true
 
 [[files]]
 file = "mods/badoptimizations.pw.toml"
-hash = "19e17a22fb33faab3b185d6a77c3842228c7b18f34eac3005a6e09a0db90ad08"
+hash = "b8c29dac6fb7c1cf18ca53b7a96c6c4854307999b77a751e803bdd9650a125e0"
 metafile = true
 
 [[files]]
 file = "mods/better-modlist.pw.toml"
-hash = "089253830c10ef263f779ee325866180b3074f2b97fff851f2d2191b639a7167"
+hash = "2c507d0b6da5de28db21e8d803fffbe588a2ab17c053b71da1e5ff49786c1cdb"
 metafile = true
 
 [[files]]
@@ -393,7 +389,7 @@ metafile = true
 
 [[files]]
 file = "mods/chloride.pw.toml"
-hash = "f5bfbcc1e26076dfd3d5b7218072aa03e292b077c712ee3130b76191e15a2b9c"
+hash = "2af0c21d9553758fc6cefc92ad9f4ba4c1d8c0edf1b953d8cbb2ddf907a1e814"
 metafile = true
 
 [[files]]
@@ -403,12 +399,12 @@ metafile = true
 
 [[files]]
 file = "mods/colorwheel-patcher.pw.toml"
-hash = "6382b806a988fb49d1ba87e13178cb36451c287580fcda5bf4ff3c405da60ee0"
+hash = "ae8d380124a4c6e2c34d0d6d6fcd06f1ed4428fea1e74b95013b5155fdf7e623"
 metafile = true
 
 [[files]]
 file = "mods/colorwheel.pw.toml"
-hash = "73f7a92c8a3901d46474c03b4bbefb52ffbc1cf93d29997c566fefe5fbc5d637"
+hash = "769316a7c75a36343a329396ed095fc790633bb271464130757ee92f735fc4ad"
 metafile = true
 
 [[files]]
@@ -418,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/connector.pw.toml"
-hash = "81c7708f27828ec6c738c63eaf3b5d2f1ac2ff00bb3c2fe231809918c898ae84"
+hash = "4d5ba0ec7ea7abf0ef76f3f08853bd7c886eec95b1795cbeacaba8bc608e2913"
 metafile = true
 
 [[files]]
@@ -433,7 +429,7 @@ metafile = true
 
 [[files]]
 file = "mods/copycats.pw.toml"
-hash = "7d7250ebe1dd7fc14cf638268bd246fe7884bdc3f39f01e5bcc1d81503f097cd"
+hash = "853df4ab2418f347cbb1e3b4ca6c82b2a517a8e4e8ccabcd42c27e3496707a32"
 metafile = true
 
 [[files]]
@@ -443,7 +439,7 @@ metafile = true
 
 [[files]]
 file = "mods/crash-assistant.pw.toml"
-hash = "893c06aac7543ea710c0201d1cf6c9fe8f996cc4ce236f36992c02886650f10c"
+hash = "5c54e5306fa641958d698ca8fbb616d173a206e56eba625d7e109f0c8fa11231"
 metafile = true
 
 [[files]]
@@ -453,7 +449,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-connected.pw.toml"
-hash = "573af745d57d2b505f7a195893a6fc5de7056e0201a46ed2c8e80065e214db8e"
+hash = "aa8711ff3f1d590b8c3e4e092927e5a697d585e21c52107ddc559c93ffebdaed"
 metafile = true
 
 [[files]]
@@ -463,7 +459,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-encased.pw.toml"
-hash = "62dfa134f7dae626f112a19a597eaf80d55072992601fbecce5cb2029b827bef"
+hash = "3bf41d0d0195845c1633219fc48531d5ba4d8d7516cec2a63ee75b04da2f01b2"
 metafile = true
 
 [[files]]
@@ -473,12 +469,12 @@ metafile = true
 
 [[files]]
 file = "mods/create-steam-n-rails.pw.toml"
-hash = "9fed65d0c00e03e140df6703b3686b9571d936d8c4cddfbe34e25fa44d6a668d"
+hash = "5391ac307bbc73edb72e7eb11495af96e327eff1c02ff67d2ebbe615ca6766d7"
 metafile = true
 
 [[files]]
 file = "mods/create.pw.toml"
-hash = "7ecb15fd082cc8c7f417b132fa12b73b05e81e69dcfe85aa5b4bd6a05aa3b15a"
+hash = "fb5c251cf4997fa65ca043bab7c9ecbd02e108031584a3e26276b77d212de23c"
 metafile = true
 
 [[files]]
@@ -503,12 +499,12 @@ metafile = true
 
 [[files]]
 file = "mods/dynamic-fps.pw.toml"
-hash = "d9b1a3f77f3926bfc7ff2b0c9839a7981d996a882c4b41e7f9be3e414f7c7082"
+hash = "b4e39eaf05f752f5160666b4fc9d4488cd51edebff597f32bb14e139dd5e085e"
 metafile = true
 
 [[files]]
 file = "mods/e4mc.pw.toml"
-hash = "49f0a5e51218b7765d8147977d7d5814f5884ab03c1cf2ae9879cc19683cba89"
+hash = "98713566cc727183fdd2fe9ceba4c4b79b99e21bed6c253fd496b1ab19f5e7ed"
 metafile = true
 
 [[files]]
@@ -523,7 +519,7 @@ metafile = true
 
 [[files]]
 file = "mods/entityculling.pw.toml"
-hash = "f21eba0f14432595e5274dd2f890690b6d561c94c8295a3f9e9ceb0f63e539a9"
+hash = "25d3f272639cef595de126a2c51faff793dc03bcde63ef060e1277c315583ce7"
 metafile = true
 
 [[files]]
@@ -578,7 +574,7 @@ metafile = true
 
 [[files]]
 file = "mods/fzzy-config.pw.toml"
-hash = "5d517817907aaee71ede6bb1c21ccaa310b1e10813803db33a43d728c9db9844"
+hash = "952e8743d8452d98c491a2e71bffbba3e89fb26369211c15c84fad89b6e17fea"
 metafile = true
 
 [[files]]
@@ -588,7 +584,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "781c010e7c39cc1b6e5b2cd949c582e64b04268d2cc7069d9743193515225564"
+hash = "835bd8b05a05ce6c0981ddc37c49e4c476aa0414cc2a5321fd9f8994193b6feb"
 metafile = true
 
 [[files]]
@@ -613,12 +609,12 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "e481d73c53d6115e7aea465a8d16a8a3a3410caf65e5a91a1e3488e7c3df221a"
+hash = "b0441c2b5bb6ff680d97eac28d95847f0d4dbee34d1d42d897997b500acd44ca"
 metafile = true
 
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
-hash = "e9933627bb78e5aab814dc94213bc4277435bfde3acf76ea4d1bc3c0f66fc5f2"
+hash = "70a4ecd9d0c04ad20aeb976c1ee28933ce48a0a1f43df42deafaeb2ad7235297"
 metafile = true
 
 [[files]]
@@ -653,7 +649,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "13de712463cacdf747e72750a088ad5efa0293ba04580e713e0e65eab65b6df1"
+hash = "186909f73870979511db893fca2e2a318b311361f168d425ba0e58fc539188ee"
 metafile = true
 
 [[files]]
@@ -713,7 +709,7 @@ metafile = true
 
 [[files]]
 file = "mods/slice-and-dice.pw.toml"
-hash = "2641606ef2e2dc158bd98555319304acc5cae4dce4fe7d0d0bf32614cd582bf5"
+hash = "f49c7302f7a044aae67740fac3a7558ca2f26b3a89a69a3940d516a40e3b75b7"
 metafile = true
 
 [[files]]
@@ -757,11 +753,3 @@ hash = "46d8de043e02bfff0f93085925d602cf92f9f3375fa2448120b8bf5b4ded0bc0"
 [[files]]
 file = "resourcepacks/Create PROPERLY Splash Texts/pack.mcmeta"
 hash = "72a4dfef30749d1d9535cc8c17791440f70a3451a402792a4cba327f5588fd27"
-
-[[files]]
-file = "resourcepacks/Mod Menu Badge Forge Fix/assets/minecraft/lang/en_us.json"
-hash = "0bd2200de3f095dae1e2f8eb9544277d0a8a06841faffbd984ae19715c2a2417"
-
-[[files]]
-file = "resourcepacks/Mod Menu Badge Forge Fix/pack.mcmeta"
-hash = "87293fda1166889c1b79882e4cb48f3041acc1721a1456e947ace36c9fffe9c3"
