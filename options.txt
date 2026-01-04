@@ -42,7 +42,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:2
 renderClouds:"true"
-resourcePacks:["mod_resources","vanilla","fabric","file/Create PROPERLY Splash Texts","file/Mod Menu Badge Forge Fix"]
+resourcePacks:["mod_resources","vanilla","fabric","file/Create PROPERLY Splash Texts"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us
