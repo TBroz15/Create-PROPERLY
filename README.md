@@ -16,7 +16,7 @@ Because modpacks should've been PROPERLY PROPER from the start. This modpack was
 
 ## "So what made this modpack special?"
 
-- Has Create 6.0.6 with Addons (soon to update to 6.0.8+ if everything is stable)
+- Has Create 6.0.8 with Addons
 - Has 1.21 features backported
 - Can run under 2GB allocated RAM! (recommended to use 4GB)
 - Is heavily optimized

@@ -739,7 +739,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "71c7534997d668a0ded87f804d2791821ceb5bc223bbbfaf0bd157cb4858d1f1"
+hash = "ddcd46b2f2373fa49cc6b4700327636400d3d62904d975601b3329b9a827ef26"
 
 [[files]]
 file = "resourcepacks/Create PROPERLY Splash Texts/assets/minecraft/texts/splashes.txt"
@@ -748,11 +748,3 @@ hash = "46d8de043e02bfff0f93085925d602cf92f9f3375fa2448120b8bf5b4ded0bc0"
 [[files]]
 file = "resourcepacks/Create PROPERLY Splash Texts/pack.mcmeta"
 hash = "72a4dfef30749d1d9535cc8c17791440f70a3451a402792a4cba327f5588fd27"
-
-[[files]]
-file = "resourcepacks/Mod Menu Badge Forge Fix/assets/minecraft/lang/en_us.json"
-hash = "0bd2200de3f095dae1e2f8eb9544277d0a8a06841faffbd984ae19715c2a2417"
-
-[[files]]
-file = "resourcepacks/Mod Menu Badge Forge Fix/pack.mcmeta"
-hash = "87293fda1166889c1b79882e4cb48f3041acc1721a1456e947ace36c9fffe9c3"
