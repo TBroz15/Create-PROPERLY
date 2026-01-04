@@ -14,7 +14,7 @@
         }
       },
       {
-        "text": "Create: PROPERLY 0.1.0",
+        "text": "Create: PROPERLY 0.2.0",
         "clickEvent": {
           "action": "open_url",
           "value": "https://modrinth.com/project/create-properly"
@@ -32,7 +32,7 @@
         }
       },
       {
-        "text": "Create: PROPERLY 0.1.0",
+        "text": "Create: PROPERLY 0.2.0",
         "clickEvent": {
           "action": "open_url",
           "value": "https://modrinth.com/project/create-properly"

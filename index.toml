@@ -198,7 +198,7 @@ hash = "eb9877ca65a0f08665927d7b3d87ec1c54056d9f895434c23a47c167e3f063b5"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "6445ec52be6157ad5c395d3eff8c0f68de2612f92d234bf7940f234cd052cc29"
+hash = "aef59ba7ff712b7bcb5415ec7eefbbfce7523e6030c8ce016c90ca659be4cbc0"
 
 [[files]]
 file = "config/jade/hide-blocks.json"
